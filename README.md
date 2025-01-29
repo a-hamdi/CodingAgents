@@ -31,6 +31,8 @@ There are three systems:
 - **Agent 5:** Validates code of Agent 4.
 - **communication between all agents is saved and passed in each prompt**
 
+![architecture](system.png)
+
 ### 2. User Interaction Layer
 Facilitates communication between users and the generative model, enabling the input of task descriptions and retrieval of final results.
 
