@@ -1,6 +1,5 @@
 # CodingAgents
 
-## Project Overview
 The **CodingAgents** is a Multi-Agent Code Generation and Validation System which leverages advanced generative AI models, specifically Google's Gemini, to automate the process of code generation, refinement, validation, and testing. This system exhibits a sophisticated workflow where multiple agents systematically interact to ensure the production of high-quality code that meets the specified requirements. The project effectively demonstrates the integration of Natural Language Processing (NLP) with automated code execution, significantly enhancing coding efficiency and reliability.
 
 ![logo](Logo.png)
