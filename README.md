@@ -15,7 +15,7 @@ The **CodingAgents** is a Multi-Agent Code Generation and Validation System whic
 - **Logging and Monitoring:** Maintains a comprehensive log of all interactions and system states for traceability and debugging.
 
 ## System Architecture
-There are two systems:
+There are three systems:
 ### System 1 (stable)
 - **Agent 1:** Generates or refines code based on user prompts.
 - **Agent 2:** Validates the correctness and functionality of the generated code.
